@@ -63,9 +63,9 @@
 				<version>2.0</version>
 				<configuration>
 					<deploymentType>cloudhub</deploymentType>
-					<muleVersion>3.7.3</muleVersion>
-					<username>yourUsername</username>
-					<password>yourPassword</password>
+					<muleVersion>${mule.version}</muleVersion>
+					<username>zotzot1</username>
+					<password>f5+~#JScH'x?ndx2</password>
 					<workerType>Micro</workerType>
 					<redeploy>true</redeploy>
 					<environment>Production</environment>
